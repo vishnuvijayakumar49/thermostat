@@ -1,0 +1,13 @@
+defaults: &defaults
+  redis_conf:
+    host: localhost
+    port: 6379
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults

@@ -1,0 +1,1 @@
+{"token": "5PVGesqoOdBR3Lv1074pbA", "temperature" : "5.5", "humidity" : "30.0", "battery_charge" : "13"}
